@@ -30,4 +30,4 @@ The starting point for your next project based on easy-to-customize MUI helps yo
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/ramizimran/).
+[LinkedIn](https://www.linkedin.com/in/ramizimran/) | [Twitter](https://twitter.com/sizarcorpse)
