@@ -27,3 +27,7 @@ The starting point for your next project based on easy-to-customize MUI helps yo
 5. Update dependencies:`npm outdated` && `npm update`
 
 6. Run the application: `npm start`
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/ramizimran/).
